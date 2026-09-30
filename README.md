@@ -17,6 +17,7 @@ Networking and Telecommunications Student 🌐 | Passionate about network infras
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="48" height="48" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="48" height="48" />
 </p>
 
 ### 🖥️ Systems & Server Administration
@@ -25,19 +26,7 @@ Networking and Telecommunications Student 🌐 | Passionate about network infras
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="48" height="48" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="48" height="48" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" />
-</p>
-
-### 💻 Development Tools
-<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="48" height="48" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="48" height="48" />
-</p>
-
----
-
-### 📊 GitHub Statistics
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=xDylanbrr&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
@@ -56,13 +45,6 @@ Networking and Telecommunications Student 🌐 | Passionate about network infras
 - 💼 LinkedIn: [linkedin.com/in/dylan-arturo-rodriguez-isabel](https://linkedin.com/in/dylan-arturo-rodriguez-isabel-1854a0388)
 - 📧 Email: xdylanbrr@gmail.com
 - 🐙 GitHub: [@xDylanbrr](https://github.com/xDylanbrr)
-
----
-
-### 📌 Featured Projects
-- **PLAVET** - Multi-tenant internship management SaaS
-- **Digital Quality Logbook** - Quality assurance system
-- **NEXA Score** - Smart wristband for skin health monitoring
 
 ---
 
