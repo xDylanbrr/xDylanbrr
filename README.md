@@ -20,22 +20,13 @@ Networking and Telecommunications Student 🌐 | Passionate about network infras
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="48" height="48" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="48" height="48" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="48" height="48" />
+ 
 </p>
 
-### ☁️ Cloud & Infrastructure
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" alt="AWS" width="48" height="48" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" />
-</p>
+
 
 ---
 
-### 📊 GitHub Statistics
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=xDylanbrr&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
 
 ---
 
@@ -43,9 +34,7 @@ Networking and Telecommunications Student 🌐 | Passionate about network infras
 - **CCNA Certified** (ITN v7.0)
 - **Routing & Switching**
 - **Network Security**
-- **Systems Administration**
-- **Linux System Management**
-- **Python Scripting**
+
 
 ---
 
@@ -55,11 +44,6 @@ Networking and Telecommunications Student 🌐 | Passionate about network infras
 - 🐙 GitHub: [@xDylanbrr](https://github.com/xDylanbrr)
 
 ---
-
-### 📌 Featured Projects
-- **PLAVET** - Multi-tenant internship management SaaS
-- **Digital Quality Logbook** - Quality assurance system
-- **NEXA Score** - Smart wristband for skin health monitoring
 
 ---
 
