@@ -18,8 +18,3 @@ Estudiante de Redes y Telecomunicaciones 🌐 | Apasionado por la infraestructur
 </p>
 
 ---
-
-### 📊 Mis Estadísticas de GitHub:
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=xdylanbrr&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
