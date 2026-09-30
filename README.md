@@ -36,15 +36,13 @@ Networking and Telecommunications Student 🌐 | Passionate about network infras
 - **Routing & Switching**
 - **Network Security**
 - **Network Automation**
-- **Systems Administration**
-- **Linux/Windows Server Management**
 
 ---
 
 ### 🔗 Connect With Me
-- 💼 LinkedIn: [linkedin.com/in/dylan-arturo-rodriguez-isabel](https://linkedin.com/in/dylan-arturo-rodriguez-isabel-1854a0388)
-- 📧 Email: xdylanbrr@gmail.com
-- 🐙 GitHub: [@xDylanbrr](https://github.com/xDylanbrr)
+-  LinkedIn: [linkedin.com/in/dylan-arturo-rodriguez-isabel](https://linkedin.com/in/dylan-arturo-rodriguez-isabel-1854a0388)
+-  Email: xdylanbrr@gmail.com
+-  GitHub: [@xDylanbrr](https://github.com/xDylanbrr)
 
 ---
 
