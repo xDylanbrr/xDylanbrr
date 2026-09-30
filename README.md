@@ -6,7 +6,7 @@ Networking and Telecommunications Student 🌐 | Passionate about network infras
 
 ### 🛠️ Networking & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=cisco" alt="Cisco" width="48" height="48" />
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logoColor=white" alt="Cisco" height="48" />
   <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-00BCEB?style=for-the-badge&logoColor=white" alt="Packet Tracer" height="48" />
   <img src="https://img.shields.io/badge/GNS3-333333?style=for-the-badge&logoColor=white" alt="GNS3" height="48" />
   <img src="https://img.shields.io/badge/PuTTY-0078D4?style=for-the-badge&logoColor=white" alt="PuTTY" height="48" />
