@@ -1,7 +1,6 @@
-### ¡Hola! 👋 Soy Dylan Arturo Rodriguez Isabel
+Hi! 👋 I'm Dylan Arturo Rodriguez Isabel
 
-Estudiante de Redes y Telecomunicaciones 🌐 | Apasionado por la infraestructura de redes, Routing & Switching y la ciberseguridad 🔒.
-
+Networking and Telecommunications Student 🌐 | Passionate about network infrastructure, Routing & Switching, and cybersecurity 🔒.
 ---
 
 ### 🛠️ Sistemas y Herramientas
