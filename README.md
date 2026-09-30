@@ -4,6 +4,11 @@ Networking and Telecommunications Student 🌐 | Passionate about network infras
 
 ---
 
+### 📚 Currently Learning
+- **CCNA 2: Switching, Routing, and Wireless Essentials** (In Progress)
+
+---
+
 ### 🛠️ Networking & Tools
 <p>
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logoColor=white" alt="Cisco" height="48" />
@@ -37,12 +42,13 @@ Networking and Telecommunications Student 🌐 | Passionate about network infras
 - **Network Security**
 - **Network Automation**
 
+
 ---
 
 ### 🔗 Connect With Me
--  LinkedIn: [linkedin.com/in/dylan-arturo-rodriguez-isabel](https://linkedin.com/in/dylan-arturo-rodriguez-isabel-1854a0388)
--  Email: xdylanbrr@gmail.com
--  GitHub: [@xDylanbrr](https://github.com/xDylanbrr)
+- 💼 LinkedIn: [linkedin.com/in/dylan-arturo-rodriguez-isabel](https://linkedin.com/in/dylan-arturo-rodriguez-isabel-1854a0388)
+- 📧 Email: xdylanbrr@gmail.com
+- 🐙 GitHub: [@xDylanbrr](https://github.com/xDylanbrr)
 
 ---
 
