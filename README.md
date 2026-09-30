@@ -7,26 +7,38 @@ Networking and Telecommunications Student 🌐 | Passionate about network infras
 ### 🛠️ Networking & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=cisco" alt="Cisco" width="48" height="48" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/putty/putty-original.svg" alt="PuTTY" width="48" height="48" />
+  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-00BCEB?style=for-the-badge&logoColor=white" alt="Packet Tracer" height="48" />
   <img src="https://img.shields.io/badge/GNS3-333333?style=for-the-badge&logoColor=white" alt="GNS3" height="48" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logoColor=white" alt="Wireshark" height="48" />
+  <img src="https://img.shields.io/badge/PuTTY-0078D4?style=for-the-badge&logoColor=white" alt="PuTTY" height="48" />
 </p>
 
-### 💻 Programming & Development
+### 🤖 Automation & Scripting
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="48" height="48" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="48" height="48" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="48" height="48" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="48" height="48" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="48" height="48" />
- 
 </p>
 
+### 🖥️ Systems & Server Administration
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" />
+</p>
 
+### 💻 Development Tools
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="48" height="48" />
+</p>
 
 ---
 
+### 📊 GitHub Statistics
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=xDylanbrr&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
 ---
 
@@ -34,7 +46,9 @@ Networking and Telecommunications Student 🌐 | Passionate about network infras
 - **CCNA Certified** (ITN v7.0)
 - **Routing & Switching**
 - **Network Security**
-
+- **Network Automation**
+- **Systems Administration**
+- **Linux/Windows Server Management**
 
 ---
 
@@ -44,6 +58,11 @@ Networking and Telecommunications Student 🌐 | Passionate about network infras
 - 🐙 GitHub: [@xDylanbrr](https://github.com/xDylanbrr)
 
 ---
+
+### 📌 Featured Projects
+- **PLAVET** - Multi-tenant internship management SaaS
+- **Digital Quality Logbook** - Quality assurance system
+- **NEXA Score** - Smart wristband for skin health monitoring
 
 ---
 
